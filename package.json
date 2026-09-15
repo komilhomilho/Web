@@ -2,14 +2,22 @@
   "name": "08_09_2026",
   "version": "1.0.0",
   "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/alexpietro2007/Web#readme",
+  "bugs": {
+    "url": "https://github.com/alexpietro2007/Web/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexpietro2007/Web.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node start.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "module",
   "dependencies": {
     "chalk": "^6.0.0",
     "child-process": "^1.0.2",
